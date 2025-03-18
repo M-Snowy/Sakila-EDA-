@@ -1,4 +1,4 @@
--- CHANDOO ADVANCED SQL
+-- Sakila Database
 
 SELECT * FROM sakila.film;
 -------------------------------------------------------------------------------------
