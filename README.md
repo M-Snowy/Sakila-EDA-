@@ -1,5 +1,6 @@
 # Sakila-EDA-
 Sakila Exploratory Data Analysis in SQL
+https://github.com/M-Snowy/Sakila-EDA-/blob/main/Sakila.sql
 
 In this project, I made a few queries using the Sakila database sample from MySQL. I only used 6 tables:
 - Customer
